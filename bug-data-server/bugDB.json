@@ -1,0 +1,26 @@
+{
+  "bugs": [
+    {
+      "id": 5,
+      "name": "Promises are not promising",
+      "isClosed": false,
+      "createdAt": "2018-05-04T12:21:33.283Z"
+    },
+    {
+      "id": 6,
+      "name": "Data integrity checks failed",
+      "isClosed": false,
+      "createdAt": "2018-05-24T10:57:55.421Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "P102",
+      "name": "Bug Tracker"
+    },
+    {
+      "id": "P101",
+      "name": "Payroll Management"
+    }
+  ]
+}
